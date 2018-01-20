@@ -11,3 +11,4 @@ Udacity Nanodegree Machine Learning Engineer assignments & note-taking.
 
 # Assignments (Project to be submitted for review)
 1. [Titanic Survival Exploration (Optional)](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/tree/master/01_titanic_survival) : Find decision tree rules based on visual exploration (barchart, histogram).
+2. [Predicting Boston Housing Prices](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/02_boston_housing) : Evaluate performance of predictive model for Boston Housing Prices. (Learning curves, grid search using R square, ...)
