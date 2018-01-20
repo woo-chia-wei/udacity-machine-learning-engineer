@@ -1,7 +1,7 @@
 # About
 Udacity Nanodegree Machine Learning Engineer assignments & note-taking.
 
-# Exercises / Quizes / Notes
+# Notes
 1. [Decision Boundaries](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/01_decision_boundaries.ipynb) : Plot decision boundaries on different classifiers.
 2. [K Cross Validation](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/02_k_cross_validation.ipynb) : Use KFold to split data into train-test sets for cross validation. 
 3. [Grid Search](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/03_grid_search.ipynb) : Use grid search to tune hyper-parameters of decision tree classification. 
