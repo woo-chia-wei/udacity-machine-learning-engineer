@@ -12,6 +12,7 @@ Udacity Nanodegree Machine Learning Engineer assignments & note-taking.
 8. [Naives Bayes](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/08_naive_bayes.ipynb) : Build a SMS Spam classifier by using bag of words.
 9. [Naives Bayes 2](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/09_naive_bayes_2.ipynb) : Classify the emails as written by which author based only on email content.
 10. [Support Vector Machine](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/10_support_vector_machine.ipynb) : Simple example of SVM classification with kernel rbf.
+11. [Ensemble methods](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/11_ensemble_methods.ipynb) : Use AdaBoost with base of decision tree to classify terrain data. 
 
 # Assignments (Project to be submitted for review)
 1. [Titanic Survival Exploration (Optional)](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/tree/master/01_titanic_survival) : Find decision tree rules based on visual exploration (barchart, histogram).
