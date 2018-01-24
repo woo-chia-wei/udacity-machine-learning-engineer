@@ -15,6 +15,7 @@ Udacity Nanodegree Machine Learning Engineer assignments & note-taking.
 11. [Ensemble methods](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/11_ensemble_methods.ipynb) : Use AdaBoost with base of decision tree to classify terrain data. 
 12. [Gradient Descent](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/12_gradient_descent.ipynb) : Use gradient descent algorithm to find the boundary of dataset.
 13. [Polynomial Regression](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/13_polynomial_regression.ipynb) : Predict laptop battery life with polynomial regression with different degrees.
+14. [Logistic Regression](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/14_logistics_regression.ipynb) : Predict gaussian dataset using logistics regression and visualize the computed model.
 
 # Assignments (Project to be submitted for review)
 1. [Titanic Survival Exploration (Optional)](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/tree/master/01_titanic_survival) : Find decision tree rules based on visual exploration (barchart, histogram).
