@@ -16,8 +16,9 @@ Udacity Nanodegree Machine Learning Engineer assignments & note-taking.
 12. [Gradient Descent](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/12_gradient_descent.ipynb) : Use gradient descent algorithm to find the boundary of dataset.
 13. [Polynomial Regression](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/13_polynomial_regression.ipynb) : Predict laptop battery life with polynomial regression with different degrees.
 14. [Logistic Regression](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/14_logistics_regression.ipynb) : Predict gaussian dataset using logistics regression and visualize the computed model.
-15. [Multilayer Perceptron](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/15_multilayer_peceptron.ipynb) : Predict student admissions to graduate school in Keras.
-16. [Multilayer Perceptron 2](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/16_multilayer_peceptron_2.ipynb) : Classify digit images (0 to 9) from the MNIST database in Keras.
+15. [Neural Network MLP](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/15_neural_networks_mlp.ipynb) : Predict student admissions to graduate school in Keras.
+16. [Neural Network MLP 2](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/16_neural_networks_mlp_2.ipynb) : Classify digit images (0 to 9) from the MNIST database in Keras.
+16. [Neural Network MLP 3](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/17_neural_networks_mlp_3.ipynb) : Analyze IMDB movie data to predict sentiment analysis in Keras.
 
 # Assignments (Project to be submitted for review)
 1. [Titanic Survival Exploration](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/tree/master/01_titanic_survival) : Find decision tree rules based on visual exploration (barchart, histogram).
