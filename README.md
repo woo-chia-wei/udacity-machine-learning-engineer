@@ -18,7 +18,8 @@ Udacity Nanodegree Machine Learning Engineer assignments & note-taking.
 14. [Logistic Regression](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/14_logistics_regression.ipynb) : Predict gaussian dataset using logistics regression and visualize the computed model.
 15. [Neural Network MLP](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/15_neural_networks_mlp.ipynb) : Predict student admissions to graduate school in Keras.
 16. [Neural Network MLP 2](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/16_neural_networks_mlp_2.ipynb) : Classify digit images (0 to 9) from the MNIST database in Keras.
-16. [Neural Network MLP 3](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/17_neural_networks_mlp_3.ipynb) : Analyze IMDB movie data to predict sentiment analysis in Keras.
+17. [Neural Network MLP 3](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/17_neural_networks_mlp_3.ipynb) : Analyze IMDB movie data to predict sentiment analysis in Keras.
+18. [Clustering](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/00_exercises/18_clustering.ipynb) : Use k means clustering to explore Netfix data from movie ratings.
 
 # Assignments (Project to be submitted for review)
 1. [Titanic Survival Exploration](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/tree/master/01_titanic_survival) : Find decision tree rules based on visual exploration (barchart, histogram).
