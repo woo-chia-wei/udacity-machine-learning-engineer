@@ -13459,12 +13459,12 @@ It is a ratio of true positives(words classified as spam, and which are actually
 <li>Parameters tuning must be carefully taken care to avoid overfitting with pruning from stopping the tree to grow.</li>
 <li>It is simple and able to generate decision rules, performance can be improved using gridsearch for parameters tuning.</li>
 </ol>
-<p><span><u>Logistic Regression:</u><span></p>
+<p><span><u>K-Nearest Neighbors (KNeighbors):</u><span></p>
 <ol>
 <li>It is commonly used in Handwriting recognition.</li>
-<li>It is simple, fast for binary classification and rarely cause overfitting.</li>
-<li>Not flexible to handle non-lineary-separable dataset.</li>
-<li>It is able to process large feature space quickly which fit in our scenario with 103 columns.</li>
+<li>It is simple to implement and intuitive, data with same label are closer with each other, usually do well if distance is well defined.</li>
+<li>Computation can be costly as distance of each input data and all training data has to be compared.</li>
+<li>KNN can perform very well in binary classification provided training data is all numeric and normalized.</li>
 </ol>
 
 </div>
@@ -13588,7 +13588,6 @@ In the code block below, you will need to implement the following:</p>
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># TODO: Import the three supervised learning models from sklearn</span>
 <span class="kn">from</span> <span class="nn">sklearn.naive_bayes</span> <span class="k">import</span> <span class="n">GaussianNB</span> 
 <span class="kn">from</span> <span class="nn">sklearn.tree</span> <span class="k">import</span> <span class="n">DecisionTreeClassifier</span>
-<span class="kn">from</span> <span class="nn">sklearn.linear_model</span> <span class="k">import</span> <span class="n">LogisticRegression</span>
 <span class="kn">from</span> <span class="nn">sklearn.neighbors</span> <span class="k">import</span> <span class="n">KNeighborsClassifier</span>
 
 <span class="c1"># TODO: Initialize the three models</span>
