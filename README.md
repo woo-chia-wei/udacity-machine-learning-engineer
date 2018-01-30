@@ -24,4 +24,5 @@ Udacity Nanodegree Machine Learning Engineer assignments & note-taking.
 # Assignments (Project to be submitted for review)
 1. [Titanic Survival Exploration](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/tree/master/01_titanic_survival) : Find decision tree rules based on visual exploration (barchart, histogram).
 2. [Predicting Boston Housing Prices](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/blob/master/02_boston_housing) : Evaluate predictive model for Boston Housing Prices.
-2. [Finding Donors for CharityML](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/tree/master/03_finding_donors) : Use several supervised algorithms to predict individual that makes > $50,000.
+3. [Finding Donors for CharityML](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/tree/master/03_finding_donors) : Use several supervised algorithms to predict individual that makes > $50,000.
+4. [Dog Breed Recognition](https://github.com/woo-chia-wei/udacity-machine-learning-engineer/tree/master/04_dog_breed_classifier) : Predict dog breed given image of dogs using CNN. (Include human recognition & transfer learning)
